@@ -687,6 +687,18 @@ Transform:
   m_Children: []
   m_Father: {fileID: 0}
   m_LocalEulerAnglesHint: {x: 0, y: 0, z: 0}
+--- !u!114 &737166453 stripped
+MonoBehaviour:
+  m_CorrespondingSourceObject: {fileID: 6727624853456702936, guid: 7ffb280ce1879214e8a07763ef378bd0,
+    type: 3}
+  m_PrefabInstance: {fileID: 1284306730}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: b385a552eacf01142929c1931270e736, type: 3}
+  m_Name: 
+  m_EditorClassIdentifier: 
 --- !u!1 &755012683
 GameObject:
   m_ObjectHideFlags: 0
@@ -716,6 +728,13 @@ MonoBehaviour:
   m_Script: {fileID: 11500000, guid: f6a3e5e43a2c52d46841e55178b817e1, type: 3}
   m_Name: 
   m_EditorClassIdentifier: 
+  playerInventory:
+  - {fileID: 966000989}
+  - {fileID: 1973029210}
+  - {fileID: 2139726259}
+  shopInventory:
+  - {fileID: 1918539108}
+  - {fileID: 737166453}
 --- !u!4 &755012685
 Transform:
   m_ObjectHideFlags: 0
@@ -939,9 +958,9 @@ MonoBehaviour:
   m_OnClick:
     m_PersistentCalls:
       m_Calls:
-      - m_Target: {fileID: 0}
-        m_TargetAssemblyTypeName: 
-        m_MethodName: 
+      - m_Target: {fileID: 755012684}
+        m_TargetAssemblyTypeName: InventoryManager, Assembly-CSharp
+        m_MethodName: BuyItem
         m_Mode: 1
         m_Arguments:
           m_ObjectArgument: {fileID: 0}
@@ -950,7 +969,7 @@ MonoBehaviour:
           m_FloatArgument: 0
           m_StringArgument: 
           m_BoolArgument: 0
-        m_CallState: 2
+        m_CallState: 1
       - m_Target: {fileID: 1182170543}
         m_TargetAssemblyTypeName: 
         m_MethodName: 
@@ -1033,6 +1052,18 @@ MonoBehaviour:
   m_FlexibleWidth: -1
   m_FlexibleHeight: -1
   m_LayoutPriority: 1
+--- !u!114 &966000989 stripped
+MonoBehaviour:
+  m_CorrespondingSourceObject: {fileID: 6727624853456702936, guid: 7ffb280ce1879214e8a07763ef378bd0,
+    type: 3}
+  m_PrefabInstance: {fileID: 1678846109}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: b385a552eacf01142929c1931270e736, type: 3}
+  m_Name: 
+  m_EditorClassIdentifier: 
 --- !u!1 &1013845783
 GameObject:
   m_ObjectHideFlags: 0
@@ -1415,9 +1446,9 @@ MonoBehaviour:
   m_OnClick:
     m_PersistentCalls:
       m_Calls:
-      - m_Target: {fileID: 0}
-        m_TargetAssemblyTypeName: 
-        m_MethodName: StartSecondDialogue
+      - m_Target: {fileID: 755012684}
+        m_TargetAssemblyTypeName: InventoryManager, Assembly-CSharp
+        m_MethodName: SellItem
         m_Mode: 1
         m_Arguments:
           m_ObjectArgument: {fileID: 0}
@@ -1426,7 +1457,7 @@ MonoBehaviour:
           m_FloatArgument: 0
           m_StringArgument: 
           m_BoolArgument: 0
-        m_CallState: 2
+        m_CallState: 1
       - m_Target: {fileID: 0}
         m_TargetAssemblyTypeName: 
         m_MethodName: HideInventory
@@ -2391,6 +2422,18 @@ CanvasRenderer:
   m_PrefabAsset: {fileID: 0}
   m_GameObject: {fileID: 1778100640}
   m_CullTransparentMesh: 0
+--- !u!114 &1918539108 stripped
+MonoBehaviour:
+  m_CorrespondingSourceObject: {fileID: 6727624853456702936, guid: 7ffb280ce1879214e8a07763ef378bd0,
+    type: 3}
+  m_PrefabInstance: {fileID: 385932995}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: b385a552eacf01142929c1931270e736, type: 3}
+  m_Name: 
+  m_EditorClassIdentifier: 
 --- !u!1 &1971635126
 GameObject:
   m_ObjectHideFlags: 0
@@ -2517,6 +2560,18 @@ RectTransform:
     type: 3}
   m_PrefabInstance: {fileID: 421245998}
   m_PrefabAsset: {fileID: 0}
+--- !u!114 &1973029210 stripped
+MonoBehaviour:
+  m_CorrespondingSourceObject: {fileID: 6727624853456702936, guid: 7ffb280ce1879214e8a07763ef378bd0,
+    type: 3}
+  m_PrefabInstance: {fileID: 421245998}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: b385a552eacf01142929c1931270e736, type: 3}
+  m_Name: 
+  m_EditorClassIdentifier: 
 --- !u!1 &2127330160
 GameObject:
   m_ObjectHideFlags: 0
@@ -2674,6 +2729,18 @@ MonoBehaviour:
   m_FlexibleWidth: -1
   m_FlexibleHeight: -1
   m_LayoutPriority: 1
+--- !u!114 &2139726259 stripped
+MonoBehaviour:
+  m_CorrespondingSourceObject: {fileID: 6727624853456702936, guid: 7ffb280ce1879214e8a07763ef378bd0,
+    type: 3}
+  m_PrefabInstance: {fileID: 793075412}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: b385a552eacf01142929c1931270e736, type: 3}
+  m_Name: 
+  m_EditorClassIdentifier: 
 --- !u!1660057539 &9223372036854775807
 SceneRoots:
   m_ObjectHideFlags: 0
