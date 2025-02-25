@@ -394,7 +394,6 @@
 "Assets/Scripts/InventorySystem/Items/PickUpItem.cs"
 "Assets/Scripts/InventorySystem/Items/Potions/ItemPotion.cs"
 "Assets/Scripts/InventorySystem/Items/Weapons/ItemMana.cs"
-"Assets/Scripts/NewMonoBehaviourScript.cs"
 "Assets/Scripts/TitleManager.cs"
 -langversion:9.0
 /deterministic
