@@ -75,6 +75,7 @@
     <Compile Include="Assets\Scripts\InventorySystem\Inventories\InventoryUI.cs" />
     <Compile Include="Assets\Scripts\InventorySystem\Items\ConsumableItem.cs" />
     <Compile Include="Assets\Scripts\InventorySystem\Inventories\ConsumeItem.cs" />
+    <Compile Include="Assets\Scripts\NewMonoBehaviourScript.cs" />
     <Compile Include="Assets\Scripts\InventorySystem\Items\Potions\ItemPotion.cs" />
     <Compile Include="Assets\Scripts\InventorySystem\Inventories\ItemSlot.cs" />
   </ItemGroup>
