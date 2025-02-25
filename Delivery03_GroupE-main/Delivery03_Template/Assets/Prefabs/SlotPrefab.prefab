@@ -12,6 +12,7 @@ GameObject:
   - component: {fileID: 4908690381265023231}
   - component: {fileID: 6004142133801907285}
   - component: {fileID: 257409135200898197}
+  - component: {fileID: 6727624853456702936}
   m_Layer: 5
   m_Name: SlotPrefab
   m_TagString: Untagged
@@ -79,6 +80,19 @@ MonoBehaviour:
   m_EditorClassIdentifier: 
   Image: {fileID: 5942939155442774167}
   AmountText: {fileID: 4894285389737324033}
+--- !u!114 &6727624853456702936
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 4176061043146347162}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: b385a552eacf01142929c1931270e736, type: 3}
+  m_Name: 
+  m_EditorClassIdentifier: 
+  selectionHighlight: {fileID: 5942939155442774167}
 --- !u!1 &6799998231035903654
 GameObject:
   m_ObjectHideFlags: 0
@@ -188,7 +202,7 @@ RectTransform:
   m_LocalEulerAnglesHint: {x: 0, y: 0, z: 0}
   m_AnchorMin: {x: 0.5, y: 0}
   m_AnchorMax: {x: 0.5, y: 0}
-  m_AnchoredPosition: {x: 0.0000092983, y: 22}
+  m_AnchoredPosition: {x: 0, y: 25.288}
   m_SizeDelta: {x: 71.5871, y: 72.1357}
   m_Pivot: {x: 0.5, y: 0.5}
 --- !u!222 &7627775889627614048
