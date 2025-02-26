@@ -13,14 +13,22 @@ public class Inventory : ScriptableObject
 
     public Action OnInventoryChange;
 
+    public bool ContainsItem(ItemBase item)
+    {
+        foreach (var slot in Slots)
+        {
+            if (slot.HasItem(item))
+            {
+                return true;
+            }
+        }
+        return false;
+    }
     public void AddItem(ItemBase item)
     {
-        // Lazy initialization of slots list
-        if (Slots == null) Slots = new List<ItemSlot>();
-
         var slot = GetSlot(item);
 
-        if ((slot != null) && (item.IsStackable))
+        if (slot != null && item.IsStackable)
         {
             slot.AddOne();
         }
@@ -29,23 +37,20 @@ public class Inventory : ScriptableObject
             slot = new ItemSlot(item);
             Slots.Add(slot);
         }
-
-        OnInventoryChange?.Invoke();
     }
 
     public void RemoveItem(ItemBase item)
     {
-        if (Slots == null) return;
-
         var slot = GetSlot(item);
 
         if (slot != null)
         {
             slot.RemoveOne();
-            if (slot.IsEmpty()) RemoveSlot(slot);
+            if (slot.IsEmpty())
+            {
+                Slots.Remove(slot);
+            }
         }
-
-        OnInventoryChange?.Invoke();
     }
 
     private void RemoveSlot(ItemSlot slot)
@@ -55,11 +60,13 @@ public class Inventory : ScriptableObject
 
     private ItemSlot GetSlot(ItemBase item)
     {
-        for (int i = 0; i < Slots.Count; i++)
+        foreach (var slot in Slots)
         {
-            if (Slots[i].HasItem(item)) return Slots[i];
+            if (slot.HasItem(item))
+            {
+                return slot;
+            }
         }
-
         return null;
     }
 

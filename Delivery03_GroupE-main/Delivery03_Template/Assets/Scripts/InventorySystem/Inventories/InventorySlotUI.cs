@@ -28,6 +28,14 @@ public class InventorySlotUI : MonoBehaviour, IBeginDragHandler, IDragHandler, I
 
         _item = slot.Item;
         _inventory = inventory;
+
+        // Asignar el ítem al InventoryItem
+        var inventoryItem = GetComponent<InventoryItem>();
+        if (inventoryItem != null)
+        {
+            inventoryItem.Item = slot.Item;
+        }
+
     }
 
     public void OnBeginDrag(PointerEventData eventData)

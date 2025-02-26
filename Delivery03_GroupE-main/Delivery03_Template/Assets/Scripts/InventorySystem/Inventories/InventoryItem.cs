@@ -11,6 +11,8 @@ public class InventoryItem : MonoBehaviour, IPointerClickHandler
 
     private bool isSelected = false;
 
+    public ItemBase Item { get;  set; }
+
     public void OnPointerClick(PointerEventData eventData)
     {
         InventoryManager.Instance.SelectItem(this);
