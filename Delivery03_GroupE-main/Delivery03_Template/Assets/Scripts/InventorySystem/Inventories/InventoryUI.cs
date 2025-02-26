@@ -67,4 +67,20 @@ public class InventoryUI : MonoBehaviour
     {
         Inventory.RemoveItem(item);
     }
+
+   /* public void UpdateInventory(List<InventoryItem> items)
+    {
+        // Eliminar los elementos antiguos de la UI
+        foreach (Transform child in transform)
+        {
+            Destroy(child.gameObject);
+        }
+
+        // Agregar los nuevos ítems a la UI
+        foreach (var item in items)
+        {
+            GameObject newItemUI = Instantiate(itemPrefab, transform);
+            newItemUI.GetComponent<InventorySlotUI>().Initialize(item, this);
+        }
+    } */
 }

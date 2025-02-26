@@ -3,8 +3,36 @@
   "WorkspaceRootPath": "C:\\Users\\Marti Conesa\\Desktop\\Unity\\Inventario2D\\Delivery03_GroupE-main\\Delivery03_Template\\",
   "Documents": [
     {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Users\\Marti Conesa\\Desktop\\Unity\\Inventario2D\\Delivery03_GroupE-main\\Delivery03_Template\\Assets\\Scripts\\InventorySystem\\Inventories\\InventorySlotUI.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:Assets\\Scripts\\InventorySystem\\Inventories\\InventorySlotUI.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
       "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Users\\Marti Conesa\\Desktop\\Unity\\Inventario2D\\Delivery03_GroupE-main\\Delivery03_Template\\Assets\\Scripts\\InventoryManager.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:Assets\\Scripts\\InventoryManager.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Users\\Marti Conesa\\Desktop\\Unity\\Inventario2D\\Delivery03_GroupE-main\\Delivery03_Template\\Assets\\Scripts\\InventorySystem\\Items\\Weapons\\ItemMana.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:Assets\\Scripts\\InventorySystem\\Items\\Weapons\\ItemMana.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Users\\Marti Conesa\\Desktop\\Unity\\Inventario2D\\Delivery03_GroupE-main\\Delivery03_Template\\Assets\\Scripts\\InventorySystem\\Items\\Food\\ItemFood.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:Assets\\Scripts\\InventorySystem\\Items\\Food\\ItemFood.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Users\\Marti Conesa\\Desktop\\Unity\\Inventario2D\\Delivery03_GroupE-main\\Delivery03_Template\\Assets\\Scripts\\InventorySystem\\Items\\Potions\\ItemPotion.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:Assets\\Scripts\\InventorySystem\\Items\\Potions\\ItemPotion.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Users\\Marti Conesa\\Desktop\\Unity\\Inventario2D\\Delivery03_GroupE-main\\Delivery03_Template\\Assets\\Scripts\\InventorySystem\\Items\\Interfaces.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:Assets\\Scripts\\InventorySystem\\Items\\Interfaces.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Users\\Marti Conesa\\Desktop\\Unity\\Inventario2D\\Delivery03_GroupE-main\\Delivery03_Template\\Assets\\Scripts\\ButtonSound.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:Assets\\Scripts\\ButtonSound.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Users\\Marti Conesa\\Desktop\\Unity\\Inventario2D\\Delivery03_GroupE-main\\Delivery03_Template\\Assets\\Scripts\\GameItem.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:Assets\\Scripts\\GameItem.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
       "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Users\\Marti Conesa\\Desktop\\Unity\\Inventario2D\\Delivery03_GroupE-main\\Delivery03_Template\\Assets\\Scripts\\InventorySystem\\Inventories\\InventoryItem.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
@@ -13,26 +41,6 @@
     {
       "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Users\\Marti Conesa\\Desktop\\Unity\\Inventario2D\\Delivery03_GroupE-main\\Delivery03_Template\\Assets\\Scripts\\InventorySystem\\Items\\PickUpItem.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:Assets\\Scripts\\InventorySystem\\Items\\PickUpItem.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Users\\Marti Conesa\\Desktop\\Unity\\Inventario2D\\Delivery03_GroupE-main\\Delivery03_Template\\Assets\\Scripts\\InventorySystem\\Items\\Potions\\ItemPotion.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:Assets\\Scripts\\InventorySystem\\Items\\Potions\\ItemPotion.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Users\\Marti Conesa\\Desktop\\Unity\\Inventario2D\\Delivery03_GroupE-main\\Delivery03_Template\\Assets\\Scripts\\InventorySystem\\Items\\Food\\ItemFood.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:Assets\\Scripts\\InventorySystem\\Items\\Food\\ItemFood.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Users\\Marti Conesa\\Desktop\\Unity\\Inventario2D\\Delivery03_GroupE-main\\Delivery03_Template\\Assets\\Scripts\\InventorySystem\\Items\\Weapons\\ItemMana.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:Assets\\Scripts\\InventorySystem\\Items\\Weapons\\ItemMana.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Users\\Marti Conesa\\Desktop\\Unity\\Inventario2D\\Delivery03_GroupE-main\\Delivery03_Template\\Assets\\Scripts\\InventorySystem\\Inventories\\InventorySlotUI.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:Assets\\Scripts\\InventorySystem\\Inventories\\InventorySlotUI.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Users\\Marti Conesa\\Desktop\\Unity\\Inventario2D\\Delivery03_GroupE-main\\Delivery03_Template\\Assets\\Scripts\\InventorySystem\\Items\\Interfaces.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:Assets\\Scripts\\InventorySystem\\Items\\Interfaces.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
       "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Users\\Marti Conesa\\Desktop\\Unity\\Inventario2D\\Delivery03_GroupE-main\\Delivery03_Template\\Assets\\Scripts\\InventorySystem\\Items\\ConsumableItem.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
@@ -50,28 +58,50 @@
       "DocumentGroups": [
         {
           "DockedWidth": 200,
-          "SelectedChildIndex": 1,
+          "SelectedChildIndex": 4,
           "Children": [
             {
-              "$type": "Bookmark",
-              "Name": "ST:0:0:{cce594b6-0c39-4442-ba28-10c64ac7e89f}"
+              "$type": "Document",
+              "DocumentIndex": 7,
+              "Title": "GameItem.cs",
+              "DocumentMoniker": "C:\\Users\\Marti Conesa\\Desktop\\Unity\\Inventario2D\\Delivery03_GroupE-main\\Delivery03_Template\\Assets\\Scripts\\GameItem.cs",
+              "RelativeDocumentMoniker": "Assets\\Scripts\\GameItem.cs",
+              "ToolTip": "C:\\Users\\Marti Conesa\\Desktop\\Unity\\Inventario2D\\Delivery03_GroupE-main\\Delivery03_Template\\Assets\\Scripts\\GameItem.cs",
+              "RelativeToolTip": "Assets\\Scripts\\GameItem.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-02-26T08:58:33.076Z",
+              "EditorCaption": ""
             },
             {
               "$type": "Document",
-              "DocumentIndex": 0,
+              "DocumentIndex": 6,
+              "Title": "ButtonSound.cs",
+              "DocumentMoniker": "C:\\Users\\Marti Conesa\\Desktop\\Unity\\Inventario2D\\Delivery03_GroupE-main\\Delivery03_Template\\Assets\\Scripts\\ButtonSound.cs",
+              "RelativeDocumentMoniker": "Assets\\Scripts\\ButtonSound.cs",
+              "ToolTip": "C:\\Users\\Marti Conesa\\Desktop\\Unity\\Inventario2D\\Delivery03_GroupE-main\\Delivery03_Template\\Assets\\Scripts\\ButtonSound.cs",
+              "RelativeToolTip": "Assets\\Scripts\\ButtonSound.cs",
+              "ViewState": "AgIAAAYAAAAAAAAAAAAAAAoAAAABAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-02-26T08:43:32.792Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
               "Title": "InventoryManager.cs",
               "DocumentMoniker": "C:\\Users\\Marti Conesa\\Desktop\\Unity\\Inventario2D\\Delivery03_GroupE-main\\Delivery03_Template\\Assets\\Scripts\\InventoryManager.cs",
               "RelativeDocumentMoniker": "Assets\\Scripts\\InventoryManager.cs",
               "ToolTip": "C:\\Users\\Marti Conesa\\Desktop\\Unity\\Inventario2D\\Delivery03_GroupE-main\\Delivery03_Template\\Assets\\Scripts\\InventoryManager.cs",
               "RelativeToolTip": "Assets\\Scripts\\InventoryManager.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAABAAAAAFAAAAAAAAAA==",
+              "ViewState": "AgIAAAkAAAAAAAAAAAAAABAAAAAFAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
               "WhenOpened": "2025-02-25T09:35:56.409Z",
               "EditorCaption": ""
             },
             {
               "$type": "Document",
-              "DocumentIndex": 1,
+              "DocumentIndex": 8,
               "Title": "InventoryItem.cs",
               "DocumentMoniker": "C:\\Users\\Marti Conesa\\Desktop\\Unity\\Inventario2D\\Delivery03_GroupE-main\\Delivery03_Template\\Assets\\Scripts\\InventorySystem\\Inventories\\InventoryItem.cs",
               "RelativeDocumentMoniker": "Assets\\Scripts\\InventorySystem\\Inventories\\InventoryItem.cs",
@@ -83,19 +113,20 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 6,
+              "DocumentIndex": 0,
               "Title": "InventorySlotUI.cs",
               "DocumentMoniker": "C:\\Users\\Marti Conesa\\Desktop\\Unity\\Inventario2D\\Delivery03_GroupE-main\\Delivery03_Template\\Assets\\Scripts\\InventorySystem\\Inventories\\InventorySlotUI.cs",
               "RelativeDocumentMoniker": "Assets\\Scripts\\InventorySystem\\Inventories\\InventorySlotUI.cs",
               "ToolTip": "C:\\Users\\Marti Conesa\\Desktop\\Unity\\Inventario2D\\Delivery03_GroupE-main\\Delivery03_Template\\Assets\\Scripts\\InventorySystem\\Inventories\\InventorySlotUI.cs",
               "RelativeToolTip": "Assets\\Scripts\\InventorySystem\\Inventories\\InventorySlotUI.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAEAAAAAAAAAAAAAAA==",
+              "ViewState": "AgIAAC0AAAAAAAAAAAAAAE0AAAAAAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-02-23T14:01:54.466Z"
+              "WhenOpened": "2025-02-23T14:01:54.466Z",
+              "EditorCaption": ""
             },
             {
               "$type": "Document",
-              "DocumentIndex": 5,
+              "DocumentIndex": 2,
               "Title": "ItemMana.cs",
               "DocumentMoniker": "C:\\Users\\Marti Conesa\\Desktop\\Unity\\Inventario2D\\Delivery03_GroupE-main\\Delivery03_Template\\Assets\\Scripts\\InventorySystem\\Items\\Weapons\\ItemMana.cs",
               "RelativeDocumentMoniker": "Assets\\Scripts\\InventorySystem\\Items\\Weapons\\ItemMana.cs",
@@ -103,11 +134,12 @@
               "RelativeToolTip": "Assets\\Scripts\\InventorySystem\\Items\\Weapons\\ItemMana.cs",
               "ViewState": "AgIAAAAAAAAAAAAAAAAAAAcAAAAAAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-02-23T13:54:43.138Z"
+              "WhenOpened": "2025-02-23T13:54:43.138Z",
+              "EditorCaption": ""
             },
             {
               "$type": "Document",
-              "DocumentIndex": 4,
+              "DocumentIndex": 3,
               "Title": "ItemFood.cs",
               "DocumentMoniker": "C:\\Users\\Marti Conesa\\Desktop\\Unity\\Inventario2D\\Delivery03_GroupE-main\\Delivery03_Template\\Assets\\Scripts\\InventorySystem\\Items\\Food\\ItemFood.cs",
               "RelativeDocumentMoniker": "Assets\\Scripts\\InventorySystem\\Items\\Food\\ItemFood.cs",
@@ -115,11 +147,12 @@
               "RelativeToolTip": "Assets\\Scripts\\InventorySystem\\Items\\Food\\ItemFood.cs",
               "ViewState": "AgIAAAAAAAAAAAAAAAAAAAUAAAAcAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-02-23T13:53:40.991Z"
+              "WhenOpened": "2025-02-23T13:53:40.991Z",
+              "EditorCaption": ""
             },
             {
               "$type": "Document",
-              "DocumentIndex": 3,
+              "DocumentIndex": 4,
               "Title": "ItemPotion.cs",
               "DocumentMoniker": "C:\\Users\\Marti Conesa\\Desktop\\Unity\\Inventario2D\\Delivery03_GroupE-main\\Delivery03_Template\\Assets\\Scripts\\InventorySystem\\Items\\Potions\\ItemPotion.cs",
               "RelativeDocumentMoniker": "Assets\\Scripts\\InventorySystem\\Items\\Potions\\ItemPotion.cs",
@@ -127,11 +160,12 @@
               "RelativeToolTip": "Assets\\Scripts\\InventorySystem\\Items\\Potions\\ItemPotion.cs",
               "ViewState": "AgIAAAAAAAAAAAAAAAAAAAYAAAAAAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-02-23T13:51:01.843Z"
+              "WhenOpened": "2025-02-23T13:51:01.843Z",
+              "EditorCaption": ""
             },
             {
               "$type": "Document",
-              "DocumentIndex": 7,
+              "DocumentIndex": 5,
               "Title": "Interfaces.cs",
               "DocumentMoniker": "C:\\Users\\Marti Conesa\\Desktop\\Unity\\Inventario2D\\Delivery03_GroupE-main\\Delivery03_Template\\Assets\\Scripts\\InventorySystem\\Items\\Interfaces.cs",
               "RelativeDocumentMoniker": "Assets\\Scripts\\InventorySystem\\Items\\Interfaces.cs",
@@ -139,11 +173,12 @@
               "RelativeToolTip": "Assets\\Scripts\\InventorySystem\\Items\\Interfaces.cs",
               "ViewState": "AgIAAAAAAAAAAAAAAAAAABMAAAABAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-02-23T13:43:42.703Z"
+              "WhenOpened": "2025-02-23T13:43:42.703Z",
+              "EditorCaption": ""
             },
             {
               "$type": "Document",
-              "DocumentIndex": 2,
+              "DocumentIndex": 9,
               "Title": "PickUpItem.cs",
               "DocumentMoniker": "C:\\Users\\Marti Conesa\\Desktop\\Unity\\Inventario2D\\Delivery03_GroupE-main\\Delivery03_Template\\Assets\\Scripts\\InventorySystem\\Items\\PickUpItem.cs",
               "RelativeDocumentMoniker": "Assets\\Scripts\\InventorySystem\\Items\\PickUpItem.cs",
@@ -155,7 +190,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 8,
+              "DocumentIndex": 10,
               "Title": "ConsumableItem.cs",
               "DocumentMoniker": "C:\\Users\\Marti Conesa\\Desktop\\Unity\\Inventario2D\\Delivery03_GroupE-main\\Delivery03_Template\\Assets\\Scripts\\InventorySystem\\Items\\ConsumableItem.cs",
               "RelativeDocumentMoniker": "Assets\\Scripts\\InventorySystem\\Items\\ConsumableItem.cs",
@@ -167,7 +202,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 9,
+              "DocumentIndex": 11,
               "Title": "ItemBase.cs",
               "DocumentMoniker": "C:\\Users\\Marti Conesa\\Desktop\\Unity\\Inventario2D\\Delivery03_GroupE-main\\Delivery03_Template\\Assets\\Scripts\\InventorySystem\\Items\\ItemBase.cs",
               "RelativeDocumentMoniker": "Assets\\Scripts\\InventorySystem\\Items\\ItemBase.cs",

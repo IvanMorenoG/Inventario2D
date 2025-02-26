@@ -53,6 +53,6 @@ public class InventoryManager : MonoBehaviour
 
     private void UpdateUI()
     {
-        // Aquí actualizarías la interfaz gráfica según cómo estén implementados los inventarios en tu juego.
+
     }
 }

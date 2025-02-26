@@ -60,7 +60,9 @@
     <Analyzer Include="C:\Program Files\Unity\Hub\Editor\6000.0.33f1\Editor\Data\Tools\Unity.SourceGenerators\Unity.UIToolkit.SourceGenerator.dll" />
   </ItemGroup>
   <ItemGroup>
+    <Compile Include="Assets\Scripts\LocalizationManager.cs" />
     <Compile Include="Assets\Scripts\InventorySystem\Inventories\Inventory.cs" />
+    <Compile Include="Assets\Scripts\LenguageManager.cs" />
     <Compile Include="Assets\Scripts\InventorySystem\Items\Weapons\ItemMana.cs" />
     <Compile Include="Assets\Scripts\TitleManager.cs" />
     <Compile Include="Assets\Scripts\InventorySystem\Items\Food\ItemFood.cs" />
